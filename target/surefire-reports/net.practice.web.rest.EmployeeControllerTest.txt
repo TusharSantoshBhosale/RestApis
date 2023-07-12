@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: net.practice.web.rest.EmployeeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.798 s <<< FAILURE! - in net.practice.web.rest.EmployeeControllerTest
+search_returnsPageOfEmployees  Time elapsed: 0.248 s  <<< FAILURE!
+java.lang.AssertionError
+	at net.practice.web.rest.EmployeeControllerTest.search_returnsPageOfEmployees(EmployeeControllerTest.java:58)
+
